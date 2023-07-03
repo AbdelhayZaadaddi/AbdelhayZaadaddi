@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelhay Zaadaddi</h1>
 <h3 align="center">I'm a Full-stack developer</h3>
 
-- 🌱 I’m currently learning **C, C++, React, PYTHON, TypeScript,**
+- 🌱 I’m currently learning **C, C++, javaScript, React, PYTHON, TypeScript,**
 
 - 👨‍💻 All of my projects are available at [Will be in the future](Will be in the future)
 
