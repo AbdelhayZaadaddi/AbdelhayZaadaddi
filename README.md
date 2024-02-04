@@ -10,7 +10,8 @@
 
 - 📫 Reach me on discord **voide0827**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <h2 align="left">zaadaddiwork@gmail.com</h2></h3>
+
 <p align="left">
 </p>
 
