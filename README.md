@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Will be in the future](Will be in the future)
 
-- 💬 Ask me about **C, javaScript... will be more in the future**
+- 💬 Ask me about **C, javaScript, python ,SQL, MYSQL, REACT... will be more in the future**
 
 - 📫 Reach me on discord **voide0827**
 
